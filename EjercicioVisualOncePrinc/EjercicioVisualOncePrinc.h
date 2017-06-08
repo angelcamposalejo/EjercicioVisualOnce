@@ -3,6 +3,7 @@
 #include "AdriDlg.h"
 #include "FabiDlg.h"
 #include "JavierDlg.h"
+#include "EjercicioOnceDlg.h"
 class EjercicioVisualOncePrinc: public Win::Dialog
 {
 public:

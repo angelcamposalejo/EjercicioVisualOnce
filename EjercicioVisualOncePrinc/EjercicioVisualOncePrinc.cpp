@@ -30,6 +30,8 @@ void EjercicioVisualOncePrinc::btFabi_Click(Win::Event& e)
 
 void EjercicioVisualOncePrinc::btJesu_Click(Win::Event& e)
 {
+	EjercicioOnceDlg jesus;
+	jesus.BeginDialog(hWnd);
 }
 
 void EjercicioVisualOncePrinc::btAngel_Click(Win::Event& e)
