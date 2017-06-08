@@ -12,6 +12,8 @@ void EjercicioVisualOncePrinc::Window_Open(Win::Event& e)
 
 void EjercicioVisualOncePrinc::btJavier_Click(Win::Event& e)
 {
+	JavierDlg objDlg;
+	objDlg.BeginDialog(hWnd);
 }
 
 void EjercicioVisualOncePrinc::btAdri_Click(Win::Event& e)
