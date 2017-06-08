@@ -1,5 +1,6 @@
 #pragma once  //______________________________________ EjercicioVisualOncePrinc.h  
 #include "Resource.h"
+#include "FabiDlg.h"
 class EjercicioVisualOncePrinc: public Win::Dialog
 {
 public:
